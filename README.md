@@ -1,7 +1,7 @@
 # 05-02-2023-Collaboration
 git init
 git clone
-
+##Exercise 1
 - 'git clone <URL>' :"downloads the repository to the current directory"
 - 'git init' : Initializes the current directory as a git repo
 - 'git branch <NAME> : Creates a branch wherever HEAD is
