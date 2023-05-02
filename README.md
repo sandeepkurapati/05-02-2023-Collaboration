@@ -11,3 +11,4 @@ git clone
 - 'git fetch' : fetches log/history
 - 'git log --oneline --graph --all: shows log in gui
 - 'git fetch --prune' : Deletes the branches which are not on git hub
+- Pull request will auto update with push
