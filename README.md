@@ -3,5 +3,8 @@ git init
 git clone
 
 - 'git clone <URL>' :"downloads the repository to the current directory"
-- 'git init' : Initializes the current directory as a git repo 
+- 'git init' : Initializes the current directory as a git repo
+- 'git branch <NAME> : Creates a branch wherever HEAD is 
+- 'git branch -a' : Lists all the branches including local and remote
+- 'git switch <NAME>' : MOves HEAD/ switches your branch to <NAME>
 
